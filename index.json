@@ -9,7 +9,8 @@
 		{
 			"files": ["*.css","*.scss"],
 			"options": {
-				"printWidth": 120
+				"printWidth": 120,
+				"trailingComma": "none"
 			}
 		}
 	]
